@@ -1,0 +1,2 @@
+# paraapp
+dev apk copy
